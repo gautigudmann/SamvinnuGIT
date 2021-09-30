@@ -1,0 +1,26 @@
+{
+  "id": "97ab45d9-2482-4d14-b1bf-f317b1802cda",
+  "name": "SamvinnuGIT",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SamvinnuGIT.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
