@@ -33,6 +33,12 @@ table 50101 "FreeGifts"
             DataClassification = CustomerContent;
             Caption = 'Free Gift Quantity';
         }
+        field(5; TodaysDate; DateTime)
+        {
+            DataClassification = CustomerContent;
+            Caption = 'Date';
+            
+        }
     }
 
     keys
